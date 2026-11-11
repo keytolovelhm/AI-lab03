@@ -1,0 +1,15 @@
+{
+  "device": "cpu",
+  "precision": "fp32",
+  "autocast": false,
+  "batch_size": 512,
+  "model_mode": "eval",
+  "model_layout": "channels_last",
+  "loader": "checkpoint config/run + strict state_dict keys",
+  "split_sha256": "1d5cb77add4233a578b7a044c08ccc5cb5cf39c8177c5dd815ace9817b8f4dde",
+  "temperature_fit": "validation only",
+  "ece_bins": 15,
+  "aggregation": "sample SD ddof=1 across 3 training seeds, never pooled as independent test samples",
+  "test_used_for": "reporting; no training or selection",
+  "n_formal_runs": 39
+}

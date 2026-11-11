@@ -1,0 +1,451 @@
+model,description,seed,perturbation,level,parameter,clean_accuracy,perturbed_accuracy,drop_pp,noise_seed_sd,n_noise_seeds,protocol
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_noise,1,0.02,0.8557,0.8433666666666667,1.2333333333333307,0.0015947831618540434,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_noise,2,0.05,0.8557,0.7486666666666667,10.703333333333331,0.0019139836293274298,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_noise,3,0.1,0.8557,0.4482333333333333,40.74666666666667,0.0030924639582917235,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_noise,4,0.2,0.8557,0.15223333333333333,70.34666666666666,0.0015567059238447449,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_noise,5,0.3,0.8557,0.11526666666666667,74.04333333333334,0.00255408170059874,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_blur,1,0.5,0.8557,0.829,2.6700000000000057,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_blur,2,1.0,0.8557,0.507,34.870000000000005,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_blur,3,1.5,0.8557,0.3309,52.47999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_blur,4,2.0,0.8557,0.2636,59.21000000000001,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,gaussian_blur,5,3.0,0.8557,0.1997,65.60000000000001,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,brightness,1,-0.1,0.8557,0.8457,1.0000000000000009,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,brightness,2,-0.2,0.8557,0.8113,4.4399999999999995,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,brightness,3,-0.3,0.8557,0.7412,11.450000000000005,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,brightness,4,0.2,0.8557,0.8157,4.0000000000000036,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,brightness,5,0.35,0.8557,0.7325,12.319999999999997,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,contrast,1,0.85,0.8557,0.8498,0.5900000000000016,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,contrast,2,0.65,0.8557,0.8223,3.3399999999999985,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,contrast,3,0.45,0.8557,0.7225,13.319999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,contrast,4,1.25,0.8557,0.8413,1.4399999999999968,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,contrast,5,1.6,0.8557,0.809,4.669999999999996,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,occlusion,1,4,0.8557,0.8274,2.829999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,occlusion,2,8,0.8557,0.7719,8.379999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,occlusion,3,12,0.8557,0.6131,24.260000000000005,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,occlusion,4,16,0.8557,0.3906,46.51,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261105,occlusion,5,24,0.8557,0.1842,67.15,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_noise,1,0.02,0.8531,0.8443333333333334,0.8766666666666589,0.000862167810425136,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_noise,2,0.05,0.8531,0.7354,11.769999999999992,0.0017578395831247314,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_noise,3,0.1,0.8531,0.4285333333333333,42.45666666666666,0.003939966158907111,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_noise,4,0.2,0.8531,0.15653333333333333,69.65666666666667,0.0017897858344878429,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_noise,5,0.3,0.8531,0.11416666666666667,73.89333333333333,0.0018556220879622346,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_blur,1,0.5,0.8531,0.8296,2.3499999999999965,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_blur,2,1.0,0.8531,0.5279,32.519999999999996,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_blur,3,1.5,0.8531,0.3187,53.44,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_blur,4,2.0,0.8531,0.2519,60.12,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,gaussian_blur,5,3.0,0.8531,0.2074,64.57,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,brightness,1,-0.1,0.8531,0.843,1.0099999999999998,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,brightness,2,-0.2,0.8531,0.8085,4.459999999999997,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,brightness,3,-0.3,0.8531,0.7354,11.769999999999992,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,brightness,4,0.2,0.8531,0.8205,3.2599999999999962,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,brightness,5,0.35,0.8531,0.7458,10.729999999999995,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,contrast,1,0.85,0.8531,0.8522,0.09000000000000119,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,contrast,2,0.65,0.8531,0.8258,2.729999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,contrast,3,0.45,0.8531,0.7204,13.269999999999992,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,contrast,4,1.25,0.8531,0.8402,1.2900000000000023,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,contrast,5,1.6,0.8531,0.8034,4.969999999999997,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,occlusion,1,4,0.8531,0.8235,2.959999999999996,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,occlusion,2,8,0.8531,0.7657,8.739999999999991,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,occlusion,3,12,0.8531,0.5645,28.859999999999996,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,occlusion,4,16,0.8531,0.3633,48.98,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261106,occlusion,5,24,0.8531,0.1571,69.6,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_noise,1,0.02,0.8572,0.8443333333333333,1.2866666666666693,0.0019655363983740897,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_noise,2,0.05,0.8572,0.7266,13.059999999999993,0.001752141546793552,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_noise,3,0.1,0.8572,0.3772,48.0,0.0011357816691600568,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_noise,4,0.2,0.8572,0.1646,69.26,0.002426932219902317,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_noise,5,0.3,0.8572,0.12723333333333334,72.99666666666667,0.0007094598884597654,3,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_blur,1,0.5,0.8572,0.8301,2.7100000000000013,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_blur,2,1.0,0.8572,0.4954,36.17999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_blur,3,1.5,0.8572,0.3196,53.76,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_blur,4,2.0,0.8572,0.2582,59.9,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,gaussian_blur,5,3.0,0.8572,0.1943,66.28999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,brightness,1,-0.1,0.8572,0.8452,1.200000000000001,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,brightness,2,-0.2,0.8572,0.8104,4.679999999999995,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,brightness,3,-0.3,0.8572,0.7395,11.769999999999992,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,brightness,4,0.2,0.8572,0.8168,4.039999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,brightness,5,0.35,0.8572,0.7329,12.429999999999996,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,contrast,1,0.85,0.8572,0.8549,0.22999999999999687,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,contrast,2,0.65,0.8572,0.8259,3.1299999999999994,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,contrast,3,0.45,0.8572,0.7,15.72,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,contrast,4,1.25,0.8572,0.8458,1.1399999999999966,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,contrast,5,1.6,0.8572,0.8112,4.5999999999999925,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,occlusion,1,4,0.8572,0.8294,2.7799999999999936,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,occlusion,2,8,0.8572,0.7569,10.029999999999994,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,occlusion,3,12,0.8572,0.5701,28.70999999999999,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,occlusion,4,16,0.8572,0.3735,48.37,0.0,1,pixel_v1
+stage2_baseline_both,Stage-2 crop+flip baseline,20261107,occlusion,5,24,0.8572,0.169,68.82,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_noise,1,0.02,0.7538,0.7434000000000001,1.0399999999999965,0.001153256259467121,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_noise,2,0.05,0.7538,0.6684333333333333,8.53666666666667,0.0014640127503998581,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_noise,3,0.1,0.7538,0.45836666666666664,29.543333333333337,0.003744774136491208,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_noise,4,0.2,0.7538,0.20513333333333333,54.86666666666666,0.00352325606979302,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_noise,5,0.3,0.7538,0.1563,59.75,0.0010583005244258403,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_blur,1,0.5,0.7538,0.7384,1.540000000000008,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_blur,2,1.0,0.7538,0.5309,22.29,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_blur,3,1.5,0.7538,0.3354,41.84,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_blur,4,2.0,0.7538,0.2539,49.99,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,gaussian_blur,5,3.0,0.7538,0.2004,55.34,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,brightness,1,-0.1,0.7538,0.7423,1.1500000000000066,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,brightness,2,-0.2,0.7538,0.7024,5.140000000000001,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,brightness,3,-0.3,0.7538,0.6269,12.690000000000001,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,brightness,4,0.2,0.7538,0.7119,4.190000000000005,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,brightness,5,0.35,0.7538,0.6143,13.950000000000006,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,contrast,1,0.85,0.7538,0.7447,0.9099999999999997,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,contrast,2,0.65,0.7538,0.6947,5.910000000000004,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,contrast,3,0.45,0.7538,0.558,19.58,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,contrast,4,1.25,0.7538,0.7488,0.5000000000000004,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,contrast,5,1.6,0.7538,0.7221,3.170000000000006,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,occlusion,1,4,0.7538,0.7446,0.9199999999999986,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,occlusion,2,8,0.7538,0.6874,6.6400000000000015,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,occlusion,3,12,0.7538,0.5726,18.120000000000005,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,occlusion,4,16,0.7538,0.4203,33.35,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261105,occlusion,5,24,0.7538,0.1991,55.47,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_noise,1,0.02,0.7551,0.7491,0.6000000000000005,0.0025514701644346275,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_noise,2,0.05,0.7551,0.6889333333333334,6.61666666666666,0.002746512940681953,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_noise,3,0.1,0.7551,0.5018,25.33,0.0007937253933194157,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_noise,4,0.2,0.7551,0.24676666666666666,50.83333333333333,0.0018475208614068073,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_noise,5,0.3,0.7551,0.17266666666666666,58.24333333333334,0.001474222959166394,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_blur,1,0.5,0.7551,0.736,1.9100000000000006,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_blur,2,1.0,0.7551,0.547,20.809999999999995,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_blur,3,1.5,0.7551,0.3528,40.23,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_blur,4,2.0,0.7551,0.2683,48.68,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,gaussian_blur,5,3.0,0.7551,0.2173,53.78000000000001,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,brightness,1,-0.1,0.7551,0.7522,0.29000000000000137,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,brightness,2,-0.2,0.7551,0.7131,4.200000000000004,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,brightness,3,-0.3,0.7551,0.6457,10.939999999999994,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,brightness,4,0.2,0.7551,0.7122,4.289999999999994,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,brightness,5,0.35,0.7551,0.6063,14.880000000000004,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,contrast,1,0.85,0.7551,0.7463,0.880000000000003,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,contrast,2,0.65,0.7551,0.712,4.310000000000002,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,contrast,3,0.45,0.7551,0.5933,16.179999999999993,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,contrast,4,1.25,0.7551,0.7485,0.6599999999999939,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,contrast,5,1.6,0.7551,0.718,3.710000000000002,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,occlusion,1,4,0.7551,0.7366,1.849999999999996,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,occlusion,2,8,0.7551,0.6916,6.35,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,occlusion,3,12,0.7551,0.5683,18.679999999999996,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,occlusion,4,16,0.7551,0.4136,34.15,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261106,occlusion,5,24,0.7551,0.1892,56.589999999999996,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_noise,1,0.02,0.7591,0.747,1.21,0.001752141546793552,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_noise,2,0.05,0.7591,0.6718,8.730000000000004,0.0019519221295942663,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_noise,3,0.1,0.7591,0.4606,29.849999999999998,0.0030265491900843245,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_noise,4,0.2,0.7591,0.215,54.410000000000004,0.0011135528725660089,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_noise,5,0.3,0.7591,0.1596,59.95,0.0028513154858766424,3,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_blur,1,0.5,0.7591,0.737,2.210000000000001,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_blur,2,1.0,0.7591,0.5328,22.629999999999995,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_blur,3,1.5,0.7591,0.3401,41.9,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_blur,4,2.0,0.7591,0.262,49.71,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,gaussian_blur,5,3.0,0.7591,0.2149,54.42,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,brightness,1,-0.1,0.7591,0.7487,1.0399999999999965,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,brightness,2,-0.2,0.7591,0.7107,4.84,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,brightness,3,-0.3,0.7591,0.6397,11.939999999999994,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,brightness,4,0.2,0.7591,0.7132,4.590000000000005,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,brightness,5,0.35,0.7591,0.6156,14.349999999999996,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,contrast,1,0.85,0.7591,0.753,0.6099999999999994,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,contrast,2,0.65,0.7591,0.7134,4.569999999999997,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,contrast,3,0.45,0.7591,0.5976,16.15,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,contrast,4,1.25,0.7591,0.7467,1.2399999999999967,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,contrast,5,1.6,0.7591,0.7091,5.000000000000004,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,occlusion,1,4,0.7591,0.741,1.8100000000000005,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,occlusion,2,8,0.7591,0.6815,7.76,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,occlusion,3,12,0.7591,0.571,18.810000000000006,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,occlusion,4,16,0.7591,0.4021,35.699999999999996,0.0,1,pixel_v1
+stage2_baseline_plain,Stage-2 no-augmentation baseline,20261107,occlusion,5,24,0.7591,0.1971,56.2,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_noise,1,0.02,0.8566,0.8472333333333334,0.9366666666666634,0.0010115993936995846,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_noise,2,0.05,0.8566,0.755,10.160000000000002,0.0007549834435271021,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_noise,3,0.1,0.8566,0.48773333333333335,36.88666666666667,0.004247744499535421,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_noise,4,0.2,0.8566,0.21823333333333333,63.83666666666667,0.00045092497528229514,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_noise,5,0.3,0.8566,0.16156666666666666,69.50333333333334,0.002914332399252585,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_blur,1,0.5,0.8566,0.8302,2.639999999999998,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_blur,2,1.0,0.8566,0.5038,35.28,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_blur,3,1.5,0.8566,0.3048,55.18000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_blur,4,2.0,0.8566,0.2276,62.9,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,gaussian_blur,5,3.0,0.8566,0.1671,68.95,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,brightness,1,-0.1,0.8566,0.8446,1.200000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,brightness,2,-0.2,0.8566,0.8154,4.120000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,brightness,3,-0.3,0.8566,0.7566,9.999999999999998,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,brightness,4,0.2,0.8566,0.8221,3.4499999999999975,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,brightness,5,0.35,0.8566,0.7395,11.709999999999997,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,contrast,1,0.85,0.8566,0.8497,0.6900000000000017,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,contrast,2,0.65,0.8566,0.8262,3.0399999999999983,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,contrast,3,0.45,0.8566,0.7032,15.339999999999998,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,contrast,4,1.25,0.8566,0.8434,1.319999999999999,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,contrast,5,1.6,0.8566,0.8096,4.700000000000005,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,occlusion,1,4,0.8566,0.8311,2.550000000000008,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,occlusion,2,8,0.8566,0.769,8.760000000000002,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,occlusion,3,12,0.8566,0.6003,25.63000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,occlusion,4,16,0.8566,0.4004,45.620000000000005,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261105,occlusion,5,24,0.8566,0.1861,67.05000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_noise,1,0.02,0.856,0.8416333333333333,1.4366666666666639,0.0033605555096343125,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_noise,2,0.05,0.856,0.7139,14.21,0.0038314488121336016,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_noise,3,0.1,0.856,0.37479999999999997,48.120000000000005,0.003214031735997655,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_noise,4,0.2,0.856,0.1569,69.91,0.00043588989435407665,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_noise,5,0.3,0.856,0.12936666666666666,72.66333333333334,0.0019425069712444634,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_blur,1,0.5,0.856,0.8337,2.2299999999999986,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_blur,2,1.0,0.856,0.5201,33.589999999999996,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_blur,3,1.5,0.856,0.3197,53.63,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_blur,4,2.0,0.856,0.252,60.4,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,gaussian_blur,5,3.0,0.856,0.2035,65.25,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,brightness,1,-0.1,0.856,0.8454,1.0599999999999943,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,brightness,2,-0.2,0.856,0.809,4.699999999999993,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,brightness,3,-0.3,0.856,0.7417,11.429999999999996,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,brightness,4,0.2,0.856,0.8167,3.93,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,brightness,5,0.35,0.856,0.7366,11.939999999999994,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,contrast,1,0.85,0.856,0.8559,0.009999999999998899,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,contrast,2,0.65,0.856,0.8273,2.8699999999999948,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,contrast,3,0.45,0.856,0.7162,13.980000000000004,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,contrast,4,1.25,0.856,0.8447,1.1299999999999977,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,contrast,5,1.6,0.856,0.8133,4.269999999999996,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,occlusion,1,4,0.856,0.8306,2.539999999999998,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,occlusion,2,8,0.856,0.7688,8.719999999999995,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,occlusion,3,12,0.856,0.6034,25.259999999999994,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,occlusion,4,16,0.856,0.3884,46.76,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261106,occlusion,5,24,0.856,0.1751,68.08999999999999,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_noise,1,0.02,0.853,0.8400666666666666,1.2933333333333352,0.001159022576714289,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_noise,2,0.05,0.853,0.7009666666666666,15.203333333333335,0.002335237318418288,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_noise,3,0.1,0.853,0.37853333333333333,47.446666666666665,0.0017502380790433453,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_noise,4,0.2,0.853,0.16123333333333334,69.17666666666666,0.00045092497528229514,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_noise,5,0.3,0.853,0.1215,73.15,0.0004358898943540719,3,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_blur,1,0.5,0.853,0.8271,2.5900000000000034,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_blur,2,1.0,0.853,0.4953,35.769999999999996,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_blur,3,1.5,0.853,0.3111,54.190000000000005,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_blur,4,2.0,0.853,0.2581,59.489999999999995,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,gaussian_blur,5,3.0,0.853,0.2205,63.24999999999999,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,brightness,1,-0.1,0.853,0.8444,0.8599999999999941,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,brightness,2,-0.2,0.853,0.8128,4.020000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,brightness,3,-0.3,0.853,0.7541,9.889999999999999,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,brightness,4,0.2,0.853,0.822,3.1000000000000028,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,brightness,5,0.35,0.853,0.7391,11.39,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,contrast,1,0.85,0.853,0.8509,0.20999999999999908,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,contrast,2,0.65,0.853,0.8196,3.3399999999999985,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,contrast,3,0.45,0.853,0.702,15.100000000000001,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,contrast,4,1.25,0.853,0.8374,1.5599999999999947,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,contrast,5,1.6,0.853,0.8029,5.010000000000003,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,occlusion,1,4,0.853,0.8238,2.9200000000000004,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,occlusion,2,8,0.853,0.7565,9.650000000000002,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,occlusion,3,12,0.853,0.5574,29.56,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,occlusion,4,16,0.853,0.3631,48.99,0.0,1,pixel_v1
+ls_both,Stage-3 label smoothing 0.05,20261107,occlusion,5,24,0.853,0.1642,68.88,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_noise,1,0.02,0.8539,0.8415666666666667,1.2333333333333307,0.0010115993936995204,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_noise,2,0.05,0.8539,0.7468,10.709999999999997,0.002523885892824803,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_noise,3,0.1,0.8539,0.46076666666666666,39.31333333333333,0.0020033305601755637,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_noise,4,0.2,0.8539,0.17300000000000001,68.08999999999999,0.0026907248094147347,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_noise,5,0.3,0.8539,0.12673333333333334,72.71666666666667,0.00041633319989322736,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_blur,1,0.5,0.8539,0.8284,2.5499999999999967,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_blur,2,1.0,0.8539,0.4925,36.14,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_blur,3,1.5,0.8539,0.3285,52.54,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_blur,4,2.0,0.8539,0.2703,58.36,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,gaussian_blur,5,3.0,0.8539,0.2219,63.2,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,brightness,1,-0.1,0.8539,0.8417,1.2199999999999989,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,brightness,2,-0.2,0.8539,0.8093,4.459999999999997,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,brightness,3,-0.3,0.8539,0.7527,10.119999999999996,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,brightness,4,0.2,0.8539,0.8279,2.6000000000000023,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,brightness,5,0.35,0.8539,0.756,9.79,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,contrast,1,0.85,0.8539,0.8472,0.6700000000000039,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,contrast,2,0.65,0.8539,0.8276,2.629999999999999,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,contrast,3,0.45,0.8539,0.7283,12.560000000000004,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,contrast,4,1.25,0.8539,0.836,1.7900000000000027,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,contrast,5,1.6,0.8539,0.8001,5.3799999999999955,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,occlusion,1,4,0.8539,0.8216,3.2299999999999995,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,occlusion,2,8,0.8539,0.7771,7.679999999999998,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,occlusion,3,12,0.8539,0.6046,24.929999999999996,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,occlusion,4,16,0.8539,0.375,47.89,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261105,occlusion,5,24,0.8539,0.1963,65.75999999999999,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_noise,1,0.02,0.8541,0.8412333333333334,1.2866666666666582,0.001677299416721195,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_noise,2,0.05,0.8541,0.7177333333333333,13.636666666666663,0.00289194283023255,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_noise,3,0.1,0.8541,0.4463333333333333,40.776666666666664,0.0014742229591664146,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_noise,4,0.2,0.8541,0.2047,64.94,0.002007485989988476,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_noise,5,0.3,0.8541,0.13976666666666668,71.43333333333332,0.0005859465277082301,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_blur,1,0.5,0.8541,0.8299,2.42,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_blur,2,1.0,0.8541,0.514,34.01,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_blur,3,1.5,0.8541,0.339,51.50999999999999,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_blur,4,2.0,0.8541,0.2916,56.25,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,gaussian_blur,5,3.0,0.8541,0.2481,60.6,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,brightness,1,-0.1,0.8541,0.8423,1.1799999999999922,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,brightness,2,-0.2,0.8541,0.8096,4.449999999999998,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,brightness,3,-0.3,0.8541,0.7498,10.429999999999994,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,brightness,4,0.2,0.8541,0.8281,2.6000000000000023,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,brightness,5,0.35,0.8541,0.7558,9.829999999999995,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,contrast,1,0.85,0.8541,0.8539,0.019999999999997797,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,contrast,2,0.65,0.8541,0.8341,2.0000000000000018,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,contrast,3,0.45,0.8541,0.7371,11.7,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,contrast,4,1.25,0.8541,0.8363,1.7799999999999927,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,contrast,5,1.6,0.8541,0.7982,5.5899999999999945,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,occlusion,1,4,0.8541,0.8254,2.8699999999999948,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,occlusion,2,8,0.8541,0.7577,9.639999999999993,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,occlusion,3,12,0.8541,0.5978,25.629999999999995,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,occlusion,4,16,0.8541,0.3784,47.56999999999999,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261106,occlusion,5,24,0.8541,0.2035,65.06,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_noise,1,0.02,0.857,0.8398666666666667,1.7133333333333334,0.0023459184413217563,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_noise,2,0.05,0.857,0.695,16.200000000000003,0.0028844410203712123,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_noise,3,0.1,0.857,0.35183333333333333,50.516666666666666,0.00047258156262526167,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_noise,4,0.2,0.857,0.15293333333333334,70.40666666666667,0.0020231987873991298,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_noise,5,0.3,0.857,0.11106666666666667,74.59333333333333,0.0012662279942148383,3,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_blur,1,0.5,0.857,0.8289,2.8100000000000014,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_blur,2,1.0,0.857,0.4876,36.94,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_blur,3,1.5,0.857,0.3257,53.13,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_blur,4,2.0,0.857,0.2665,59.050000000000004,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,gaussian_blur,5,3.0,0.857,0.2196,63.739999999999995,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,brightness,1,-0.1,0.857,0.8442,1.2800000000000034,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,brightness,2,-0.2,0.857,0.8106,4.64,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,brightness,3,-0.3,0.857,0.7482,10.88,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,brightness,4,0.2,0.857,0.833,2.400000000000002,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,brightness,5,0.35,0.857,0.761,9.599999999999998,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,contrast,1,0.85,0.857,0.8575,-0.050000000000005596,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,contrast,2,0.65,0.857,0.8295,2.749999999999997,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,contrast,3,0.45,0.857,0.7246,13.239999999999997,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,contrast,4,1.25,0.857,0.8398,1.7199999999999993,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,contrast,5,1.6,0.857,0.8033,5.369999999999997,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,occlusion,1,4,0.857,0.8287,2.829999999999999,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,occlusion,2,8,0.857,0.7711,8.589999999999998,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,occlusion,3,12,0.857,0.6231,23.39,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,occlusion,4,16,0.857,0.4131,44.38999999999999,0.0,1,pixel_v1
+mixup_both,Stage-3 MixUp a=0.2,20261107,occlusion,5,24,0.857,0.2006,65.64,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_noise,1,0.02,0.8265,0.8083666666666667,1.8133333333333335,0.002615976554431115,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_noise,2,0.05,0.8265,0.6274,19.910000000000004,0.001153256259467121,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_noise,3,0.1,0.8265,0.30296666666666666,52.35333333333334,0.0009712534856222393,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_noise,4,0.2,0.8265,0.16703333333333334,65.94666666666666,0.002400694344004117,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_noise,5,0.3,0.8265,0.14166666666666666,68.48333333333333,0.0022898325994127407,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_blur,1,0.5,0.8265,0.7873,3.9200000000000013,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_blur,2,1.0,0.8265,0.4104,41.61,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_blur,3,1.5,0.8265,0.2694,55.71,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_blur,4,2.0,0.8265,0.2366,58.989999999999995,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,gaussian_blur,5,3.0,0.8265,0.2136,61.29,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,brightness,1,-0.1,0.8265,0.8157,1.0800000000000032,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,brightness,2,-0.2,0.8265,0.7827,4.380000000000006,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,brightness,3,-0.3,0.8265,0.7198,10.670000000000002,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,brightness,4,0.2,0.8265,0.7849,4.159999999999997,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,brightness,5,0.35,0.8265,0.6769,14.960000000000006,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,contrast,1,0.85,0.8265,0.8188,0.770000000000004,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,contrast,2,0.65,0.8265,0.7726,5.390000000000006,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,contrast,3,0.45,0.8265,0.6224,20.410000000000007,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,contrast,4,1.25,0.8265,0.8146,1.1900000000000022,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,contrast,5,1.6,0.8265,0.7744,5.2100000000000035,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,occlusion,1,4,0.8265,0.8137,1.2800000000000034,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,occlusion,2,8,0.8265,0.7792,4.73,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,occlusion,3,12,0.8265,0.7093,11.719999999999997,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,occlusion,4,16,0.8265,0.6223,20.420000000000005,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261105,occlusion,5,24,0.8265,0.3803,44.62,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_noise,1,0.02,0.825,0.8062333333333334,1.8766666666666598,0.0021031722072463043,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_noise,2,0.05,0.825,0.6331333333333333,19.186666666666664,0.0022546248764114206,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_noise,3,0.1,0.825,0.3063666666666667,51.86333333333333,0.004398105652816139,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_noise,4,0.2,0.825,0.14746666666666666,67.75333333333333,0.0015143755588800686,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_noise,5,0.3,0.825,0.12526666666666667,69.97333333333333,0.0022501851775650217,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_blur,1,0.5,0.825,0.7815,4.349999999999998,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_blur,2,1.0,0.825,0.4356,38.94,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_blur,3,1.5,0.825,0.2958,52.91999999999999,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_blur,4,2.0,0.825,0.2528,57.21999999999999,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,gaussian_blur,5,3.0,0.825,0.223,60.199999999999996,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,brightness,1,-0.1,0.825,0.812,1.29999999999999,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,brightness,2,-0.2,0.825,0.7787,4.630000000000001,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,brightness,3,-0.3,0.825,0.7058,11.919999999999998,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,brightness,4,0.2,0.825,0.7856,3.939999999999999,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,brightness,5,0.35,0.825,0.6839,14.11,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,contrast,1,0.85,0.825,0.8143,1.0699999999999932,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,contrast,2,0.65,0.825,0.7701,5.489999999999995,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,contrast,3,0.45,0.825,0.6216,20.339999999999993,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,contrast,4,1.25,0.825,0.8129,1.21,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,contrast,5,1.6,0.825,0.7786,4.64,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,occlusion,1,4,0.825,0.8132,1.1799999999999922,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,occlusion,2,8,0.825,0.7777,4.73,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,occlusion,3,12,0.825,0.7031,12.190000000000001,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,occlusion,4,16,0.825,0.6242,20.08,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261106,occlusion,5,24,0.825,0.3948,43.019999999999996,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_noise,1,0.02,0.8255,0.8066666666666666,1.8833333333333369,0.002571640202931465,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_noise,2,0.05,0.8255,0.5981,22.740000000000006,0.0018520259177451774,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_noise,3,0.1,0.8255,0.2551,57.04,0.0023811761799581313,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_noise,4,0.2,0.8255,0.14116666666666666,68.43333333333334,0.0003214550253664281,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_noise,5,0.3,0.8255,0.12003333333333334,70.54666666666667,0.0002516611478423591,3,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_blur,1,0.5,0.8255,0.7877,3.7800000000000056,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_blur,2,1.0,0.8255,0.4255,40.0,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_blur,3,1.5,0.8255,0.2759,54.96000000000001,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_blur,4,2.0,0.8255,0.245,58.050000000000004,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,gaussian_blur,5,3.0,0.8255,0.2126,61.29,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,brightness,1,-0.1,0.8255,0.8114,1.4100000000000001,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,brightness,2,-0.2,0.8255,0.781,4.449999999999998,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,brightness,3,-0.3,0.8255,0.7109,11.460000000000004,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,brightness,4,0.2,0.8255,0.7847,4.080000000000005,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,brightness,5,0.35,0.8255,0.676,14.949999999999996,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,contrast,1,0.85,0.8255,0.8204,0.5099999999999993,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,contrast,2,0.65,0.8255,0.7815,4.400000000000004,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,contrast,3,0.45,0.8255,0.6308,19.47,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,contrast,4,1.25,0.8255,0.814,1.1500000000000066,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,contrast,5,1.6,0.8255,0.7737,5.179999999999996,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,occlusion,1,4,0.8255,0.8154,1.0099999999999998,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,occlusion,2,8,0.8255,0.7783,4.720000000000002,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,occlusion,3,12,0.8255,0.714,11.150000000000004,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,occlusion,4,16,0.8255,0.6232,20.230000000000004,0.0,1,pixel_v1
+cutmix_both,Stage-3 CutMix a=1.0,20261107,occlusion,5,24,0.8255,0.3897,43.580000000000005,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_noise,1,0.02,0.8484,0.8382666666666667,1.0133333333333328,0.002281081614790111,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_noise,2,0.05,0.8484,0.7534666666666666,9.493333333333343,0.0009073771725877649,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_noise,3,0.1,0.8484,0.4784333333333333,36.99666666666667,0.000550757054728605,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_noise,4,0.2,0.8484,0.1911,65.73,0.0036428011200173973,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_noise,5,0.3,0.8484,0.14743333333333333,70.09666666666668,0.0045785732857882,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_blur,1,0.5,0.8484,0.8205,2.7900000000000036,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_blur,2,1.0,0.8484,0.4912,35.72,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_blur,3,1.5,0.8484,0.3184,53.0,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_blur,4,2.0,0.8484,0.2585,58.99000000000001,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,gaussian_blur,5,3.0,0.8484,0.223,62.540000000000006,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,brightness,1,-0.1,0.8484,0.8406,0.7800000000000029,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,brightness,2,-0.2,0.8484,0.8066,4.180000000000006,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,brightness,3,-0.3,0.8484,0.7414,10.70000000000001,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,brightness,4,0.2,0.8484,0.8209,2.750000000000008,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,brightness,5,0.35,0.8484,0.7389,10.950000000000005,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,contrast,1,0.85,0.8484,0.8465,0.19000000000000128,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,contrast,2,0.65,0.8484,0.8159,3.2500000000000084,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,contrast,3,0.45,0.8484,0.6924,15.600000000000003,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,contrast,4,1.25,0.8484,0.8362,1.2199999999999989,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,contrast,5,1.6,0.8484,0.8054,4.300000000000004,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,occlusion,1,4,0.8484,0.8263,2.210000000000001,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,occlusion,2,8,0.8484,0.7532,9.520000000000007,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,occlusion,3,12,0.8484,0.6011,24.730000000000008,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,occlusion,4,16,0.8484,0.398,45.04,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261105,occlusion,5,24,0.8484,0.1773,67.11,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_noise,1,0.02,0.8556,0.8457,0.990000000000002,0.0021931712199461197,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_noise,2,0.05,0.8556,0.745,11.060000000000002,0.0004582575694955335,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_noise,3,0.1,0.8556,0.44853333333333334,40.70666666666667,0.003493326972004365,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_noise,4,0.2,0.8556,0.19063333333333332,66.49666666666667,0.002055075018906443,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_noise,5,0.3,0.8556,0.13993333333333333,71.56666666666666,0.0027392213005402294,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_blur,1,0.5,0.8556,0.8262,2.939999999999998,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_blur,2,1.0,0.8556,0.4761,37.95,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_blur,3,1.5,0.8556,0.2991,55.65,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_blur,4,2.0,0.8556,0.2361,61.95,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,gaussian_blur,5,3.0,0.8556,0.1814,67.42,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,brightness,1,-0.1,0.8556,0.8457,0.990000000000002,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,brightness,2,-0.2,0.8556,0.8149,4.070000000000007,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,brightness,3,-0.3,0.8556,0.7432,11.240000000000006,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,brightness,4,0.2,0.8556,0.8297,2.5900000000000034,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,brightness,5,0.35,0.8556,0.7486,10.7,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,contrast,1,0.85,0.8556,0.8544,0.11999999999999789,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,contrast,2,0.65,0.8556,0.8238,3.180000000000005,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,contrast,3,0.45,0.8556,0.7062,14.939999999999998,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,contrast,4,1.25,0.8556,0.8472,0.8400000000000074,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,contrast,5,1.6,0.8556,0.8147,4.090000000000005,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,occlusion,1,4,0.8556,0.835,2.0600000000000063,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,occlusion,2,8,0.8556,0.7615,9.410000000000007,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,occlusion,3,12,0.8556,0.5861,26.950000000000006,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,occlusion,4,16,0.8556,0.4036,45.2,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261106,occlusion,5,24,0.8556,0.195,66.06,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_noise,1,0.02,0.857,0.8458,1.1199999999999988,0.002433105012119312,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_noise,2,0.05,0.857,0.7484333333333333,10.85666666666667,0.0014153915830374486,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_noise,3,0.1,0.857,0.47626666666666667,38.07333333333333,0.002757414247684476,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_noise,4,0.2,0.857,0.2029,65.41,0.0011357816691600505,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_noise,5,0.3,0.857,0.15386666666666668,70.31333333333333,0.0015011106998930287,3,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_blur,1,0.5,0.857,0.8287,2.829999999999999,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_blur,2,1.0,0.857,0.4659,39.11,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_blur,3,1.5,0.857,0.307,55.00000000000001,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_blur,4,2.0,0.857,0.2557,60.129999999999995,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,gaussian_blur,5,3.0,0.857,0.2212,63.57999999999999,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,brightness,1,-0.1,0.857,0.847,1.0000000000000009,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,brightness,2,-0.2,0.857,0.8087,4.830000000000001,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,brightness,3,-0.3,0.857,0.7402,11.680000000000001,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,brightness,4,0.2,0.857,0.8255,3.1499999999999972,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,brightness,5,0.35,0.857,0.7393,11.770000000000003,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,contrast,1,0.85,0.857,0.8552,0.18000000000000238,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,contrast,2,0.65,0.857,0.8235,3.3499999999999974,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,contrast,3,0.45,0.857,0.7086,14.839999999999998,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,contrast,4,1.25,0.857,0.8437,1.3299999999999979,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,contrast,5,1.6,0.857,0.8094,4.759999999999998,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,occlusion,1,4,0.857,0.8327,2.429999999999999,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,occlusion,2,8,0.857,0.7541,10.29,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,occlusion,3,12,0.857,0.6012,25.580000000000002,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,occlusion,4,16,0.857,0.4131,44.38999999999999,0.0,1,pixel_v1
+convstem_both,Stage-3 conv stem + augmentation,20261107,occlusion,5,24,0.857,0.1928,66.42,0.0,1,pixel_v1

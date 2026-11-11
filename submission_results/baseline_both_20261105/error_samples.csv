@@ -1,0 +1,17 @@
+selection,test_index,true_class,predicted_class,confidence
+High confidence,3450,truck,automobile,0.9999973773956299
+High confidence,2405,cat,frog,0.9999849796295166
+High confidence,1049,deer,automobile,0.9998745918273926
+High confidence,1072,airplane,ship,0.9998674392700195
+High confidence,1938,ship,airplane,0.9998639822006226
+High confidence,7099,cat,dog,0.9996963739395142
+High confidence,8577,cat,frog,0.9996927976608276
+High confidence,3645,automobile,truck,0.9996912479400635
+Random,5808,dog,cat,0.846362292766571
+Random,5364,horse,deer,0.5545798540115356
+Random,9535,automobile,truck,0.6348931789398193
+Random,9429,deer,bird,0.5054027438163757
+Random,9417,deer,cat,0.48349156975746155
+Random,7918,deer,dog,0.44192445278167725
+Random,9292,cat,horse,0.9962132573127747
+Random,7561,bird,cat,0.4250524044036865

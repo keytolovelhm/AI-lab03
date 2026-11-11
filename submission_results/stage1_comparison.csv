@@ -1,0 +1,4 @@
+run,residual,augment,parameters,epochs_completed,best_epoch,best_val_accuracy,test_accuracy,test_correct,test_images,training_seconds,validation_selected
+baseline_plain,False,False,228634,24,20,0.7812,0.7592,7592,10000,277.9795466000214,False
+baseline_aug,False,True,228634,24,24,0.8414,0.8259,8259,10000,284.5702392999083,False
+residual_aug,True,True,228634,24,21,0.843,0.8295,8295,10000,283.0063372000004,True

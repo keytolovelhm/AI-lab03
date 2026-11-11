@@ -1,0 +1,7 @@
+selection,test_index,true_class,predicted_class,confidence
+Correct,82,automobile,automobile,1.0
+Correct,362,ship,ship,1.0
+Low confidence,7090,bird,bird,0.25511422753334045
+Low confidence,5074,airplane,cat,0.25815844535827637
+High confidence error,3450,truck,automobile,0.9999973773956299
+High confidence error,2405,cat,frog,0.9999849796295166

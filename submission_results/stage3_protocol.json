@@ -1,0 +1,119 @@
+{
+  "base": {
+    "split_seed": 3407,
+    "split_sha256": "1d5cb77add4233a578b7a044c08ccc5cb5cf39c8177c5dd815ace9817b8f4dde",
+    "device": "cpu",
+    "precision": "bf16",
+    "cpu_threads": 8,
+    "batch_size": 256,
+    "evaluation_batch_size": 512,
+    "epochs": 60,
+    "extension_epochs": 80,
+    "patience": 12,
+    "loss_trend_window": 6,
+    "loss_trend_threshold": 0.005,
+    "learning_rate": 0.002,
+    "min_learning_rate": 5e-05,
+    "weight_decay": 0.001,
+    "dropout": 0.15,
+    "widths": [
+      24,
+      48,
+      96
+    ]
+  },
+  "runs": [
+    {
+      "name": "se_both",
+      "component": "C1 SE attention",
+      "residual": false,
+      "attention": "se",
+      "stem": "pixel_unshuffle",
+      "crop": true,
+      "flip": true,
+      "mixing": "none",
+      "label_smoothing": 0.0
+    },
+    {
+      "name": "cbam_both",
+      "component": "C2 CBAM attention",
+      "residual": false,
+      "attention": "cbam",
+      "stem": "pixel_unshuffle",
+      "crop": true,
+      "flip": true,
+      "mixing": "none",
+      "label_smoothing": 0.0
+    },
+    {
+      "name": "ls_both",
+      "component": "C3 label smoothing 0.05",
+      "residual": false,
+      "attention": "none",
+      "stem": "pixel_unshuffle",
+      "crop": true,
+      "flip": true,
+      "mixing": "none",
+      "label_smoothing": 0.05
+    },
+    {
+      "name": "convstem_both",
+      "component": "C4 conv stem + augmentation",
+      "residual": false,
+      "attention": "none",
+      "stem": "conv",
+      "crop": true,
+      "flip": true,
+      "mixing": "none",
+      "label_smoothing": 0.0
+    },
+    {
+      "name": "convstem_plain",
+      "component": "C5 conv stem, no augmentation",
+      "residual": false,
+      "attention": "none",
+      "stem": "conv",
+      "crop": false,
+      "flip": false,
+      "mixing": "none",
+      "label_smoothing": 0.0
+    },
+    {
+      "name": "mixup_both",
+      "component": "C6 MixUp alpha=0.2",
+      "residual": false,
+      "attention": "none",
+      "stem": "pixel_unshuffle",
+      "crop": true,
+      "flip": true,
+      "mixing": "mixup",
+      "mix_alpha": 0.2,
+      "label_smoothing": 0.0
+    },
+    {
+      "name": "cutmix_both",
+      "component": "C7 CutMix alpha=1.0",
+      "residual": false,
+      "attention": "none",
+      "stem": "pixel_unshuffle",
+      "crop": true,
+      "flip": true,
+      "mixing": "cutmix",
+      "mix_alpha": 1.0,
+      "label_smoothing": 0.0
+    }
+  ],
+  "seeds": [
+    20261105,
+    20261106,
+    20261107
+  ],
+  "streams": {
+    "order": 10000,
+    "crop": 20000,
+    "flip": 30000,
+    "augment": 40000,
+    "mix": 50000
+  },
+  "split_sha256": "1d5cb77add4233a578b7a044c08ccc5cb5cf39c8177c5dd815ace9817b8f4dde"
+}

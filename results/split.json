@@ -1,0 +1,53 @@
+{
+  "dataset": "CIFAR-10",
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "split_seed": 3407,
+  "split_sha256": "1d5cb77add4233a578b7a044c08ccc5cb5cf39c8177c5dd815ace9817b8f4dde",
+  "train_size": 45000,
+  "validation_size": 5000,
+  "train_per_class": [
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500,
+    4500
+  ],
+  "validation_per_class": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "train_mean": [
+    0.49150317146650324,
+    0.4823651697814543,
+    0.446795900565087
+  ],
+  "train_std": [
+    0.24709967083494855,
+    0.2435920467981728,
+    0.2616498946195306
+  ]
+}
